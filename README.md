@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Byiringiro Sam Franco</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=anco-sam-franco-b&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=anco-sam-franco-b&theme=onedark)](https://github.com/anco-sam-franco-b/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anco-sam-franco-b&" alt="anco-sam-franco-b" /></p>
 
