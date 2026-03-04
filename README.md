@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Byiringiro Sam Franco</h1>
+<img src="https://anco-sam-franco-b.github.io/Image-bg/Gemini_Generated_Image_iah1zciah1zciah1.png"/>
 <h3 align="center">A passionate Fullstack developer</h3>
 <p>I'm Fullstack Developer specializing in the MREN (MongoDB, React, Express, Node.js), PREN (PostgreSQL, React, Express, Node.js) stacks and other tech stacks, with extensive cross-disciplinary expertise in ML & AI engineering, relational and NoSQL database design/development, responsive web applications, and cross-platform mobile app development. I architect seamless, intelligent, and scalable digital ecosystems from end to end.</p>
 
@@ -24,8 +24,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anco-sam-franco-b&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<img width="100%" src="https://anco-sam-franco-b.github.io/Image-bg/68747470733a2f2f7332313837302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323031362f30362f67697068792d32312e676966.gif"/>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anco-sam-franco-b&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
