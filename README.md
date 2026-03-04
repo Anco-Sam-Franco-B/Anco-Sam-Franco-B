@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Byiringiro Sam Franco</h1>
+<h3 align="center">A passionate Fullstack developer</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anco-sam-franco-b" alt="anco-sam-franco-b" /></a> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anco-sam-franco-b&" alt="anco-sam-franco-b" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
