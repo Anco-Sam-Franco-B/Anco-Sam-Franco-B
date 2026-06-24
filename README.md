@@ -8,7 +8,7 @@
 
 # Visitors 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=anco-sam-franco-b&countColor=%237B1E7A)
-# Top Rank Commit in Rwanda
+# Top Rank Committers in Rwanda
 [![committers.top badge](https://user-badge.committers.top/rwanda/USERNAME.svg)](https://user-badge.committers.top/rwanda/Anco-Sam-Franco-B)
 
 # 💻 Tech Stack:
