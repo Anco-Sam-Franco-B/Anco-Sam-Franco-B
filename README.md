@@ -1,4 +1,4 @@
-<img src="https://anco-sam-franco-b.github.io/Image-bg/Gemini_Generated_Image_iah1zciah1zciah1.png"/>
+<img src="https://anco-sam-franco-b.github.io/Image-bg/ChatGPT Image Sep 27, 2026, 06_49_27 PM.png"/>
 <h3 align="center">A passionate Fullstack developer</h3>
 <p>I'm Fullstack Developer specializing in the MREN (MongoDB, React, Express, Node.js), PREN (PostgreSQL, React, Express, Node.js) stacks and other tech stacks, with extensive cross-disciplinary expertise in ML & AI engineering, relational and NoSQL database design/development, responsive web applications, and cross-platform mobile app development. I architect seamless, intelligent, and scalable digital ecosystems from end to end.</p>
 
